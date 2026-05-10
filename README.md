@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1500" height="1000" alt="image" src="https://github.com/user-attachments/assets/8d495a75-a234-40b1-8210-384accf6eadd" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/8d495a75-a234-40b1-8210-384accf6eadd" />
 </p>
 
 # CommunityHub - React Advanced Project (Week 9)
